@@ -11,7 +11,8 @@ Today, JavaScript is one of the most widely used programming languages in the wo
 <br>
 <br>
 <br>
-<b>Here's a syllabus for learning JavaScript from the basics:</b>
+ 
+<b style="color:red;">Here's a syllabus for learning JavaScript from the basics:</b>
 
 Introduction to JavaScript
 
