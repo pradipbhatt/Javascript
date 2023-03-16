@@ -7,7 +7,10 @@ JavaScript has a wide range of capabilities, including manipulating HTML and CSS
 Today, JavaScript is one of the most widely used programming languages in the world, with a large and active community of developers continually contributing to its evolution and growth.
 
 
-
+<br>
+<br>
+<br>
+<br>
 <b>Here's a syllabus for learning JavaScript from the basics:</b>
 
 Introduction to JavaScript
@@ -51,7 +54,10 @@ Advanced JavaScript topics
 ES6 features such as arrow functions, let and const, and template literals
 Higher-order functions and functional programming concepts
 Debugging and performance optimization techniques
-
+<br>
+<br>
+<br>
+<br>
 
 
 
