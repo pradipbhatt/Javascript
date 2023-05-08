@@ -81,3 +81,15 @@ Easy to learn: JavaScript is a relatively easy language to learn, especially if 
 Great for career growth: Learning JavaScript can help you advance your career as a web developer. It can also open up new opportunities to work on exciting and challenging projects.
 
 In summary, learning JavaScript is essential for web development and can open up many job opportunities. It is a versatile language that can be used to create a wide range of applications, and has a vast ecosystem of libraries and frameworks. Additionally, it is easy to learn and can help you advance your career as a web developer.
+
+
+
+JavaScript is a popular programming language that has a wide range of applications.
+
+JavaScript was previously used mainly for making webpages interactive such as form validation, animation, etc. Nowadays, JavaScript is also used in many other areas such as server-side development, mobile app development and so on.
+
+Because of its wide range of applications, you can run JavaScript in several ways:
+
+Using console tab of web browsers
+Using Node.js
+By creating web pages
