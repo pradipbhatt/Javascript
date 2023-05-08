@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>1</h1>
+    <div class="main">
+        <h1>Hello worldLorem ipsum dolor sit amet consectetur, adipisicing elit. A, perferendis!</h1>
+        <h2>Hey yes you , I am looking at you right now.</h2>
+    </div>
+
+
+<h1>2</h1>
+    <div class="main">
+        <h1>Hello World
+           I am from second main div so, innerHTML will return me.
+        </h1>
+    </div>
+
+
+    <script>
+        <!-- var x=document.getElementsByClassName("main")[1].innerHTML; -->
+
+    document.getElementsByClassName("main")[1].innerHTML=" <h1> I am line 1 </h1> ";
+
+    document.getElementsByClassName("main")[0].innerHTML="<h1> I am line 2 </h1>";
+
+
+      <!-- alert(x); -->
+    </script>
+</body>
+</html>
