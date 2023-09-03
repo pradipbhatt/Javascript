@@ -1,0 +1,41 @@
+<!-- JavaScript Can Change HTML Content -->
+
+<!-- One of many JavaScript HTML methods is getElementById().
+
+The example below "finds" an HTML element (with id="demo"), and changes the element content (innerHTML) to "Hello JavaScript": -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        button{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            text-align: center;
+            border: 2px solid yellowgreen;
+            background: yellow;
+            color: blueviolet;
+            box-shadow: 1px 1px 2px blue;
+            border-radius: 10px;
+            padding: 3px 10px;
+            display: inline-block;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello learners</h1>
+     <h2>
+        JavaScript Can Change HTML Content
+     </h2>
+     <p id="demo">Wanna see magic</p>
+
+
+     <button type="button" onclick='document.getElementById("demo").innerHTML=" i  came here by replacing the demo id content only after you clicked me "'>Click Me !</button>
+
+
+</body>
+</html>
