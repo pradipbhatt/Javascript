@@ -17,10 +17,13 @@ In this case JavaScript changes the value of the src (source) attribute of an im
         In this tutorial JS changes value of the src(source) attribute of an image.
     </p>
 
-    <button onclick="document.getElementById(myImage).src='on-bulb.jpg'">Turn on the bulb</button>
+    <button onclick="document.getElementById('myImage').src='offbulb.gif'">Turn off the light</button>
+    
+    <img id="myImage" src="offbulb.gif" style="height:400px; width: 50%;" alt="">
+    <button onclick="document.getElementById('myImage').src='offbulb1.gif'">Turn on the light</button>
 
-    <img id="myImage" src="bulb-on.jpg" style="width: 100%;" alt="">
-
-    <button onclick="document.getElementById(myImage).src='lamp-bulb-hanging-rope-isolated-black-background-new-idea-concept_370059-3258.avij'">Turn off the bulb</button>
 </body>
 </html>
+
+<!-- here we use the id=myImage to get that and when onclick src.='image.jpg' -->
+<!-- Try this kind of animation as assingement -->
