@@ -39,10 +39,6 @@ const width = 10;
 const area = calculateArea(length, width);
 console.log(`Area of the rectangle: ${area}`); // Output: Area of the rectangle: 50
 
-
-
-
-
 // Write a function to check if a number is even or odd.
 function isEvenOrOdd(number) {
   if (number % 2 === 0) {
@@ -55,13 +51,9 @@ function isEvenOrOdd(number) {
 const numberToCheck = 7;
 const result = isEvenOrOdd(numberToCheck);
 
-
-console.log(`The number ${numberToCheck} is: ${result}`); 
+console.log(`The number ${numberToCheck} is: ${result}`);
 
 // Output: The number 7 is: Odd
-
-
-
 
 // Write a function to convert Celsius to Fahrenheit.
 function celsiusToFahrenheit(celsius) {
@@ -71,9 +63,6 @@ function celsiusToFahrenheit(celsius) {
 const celsiusTemperature = 25;
 const fahrenheitTemperature = celsiusToFahrenheit(celsiusTemperature);
 
-console.log(`${celsiusTemperature}°C is equal to ${fahrenheitTemperature}°F`); 
+console.log(`${celsiusTemperature}°C is equal to ${fahrenheitTemperature}°F`);
 
 // Output: 25°C is equal to 77°F
-
-
-

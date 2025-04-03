@@ -143,8 +143,6 @@ do {
 
 
 
-
-
 // 4. break and continue
 // (a) break Statement
 // Stops loop execution.
