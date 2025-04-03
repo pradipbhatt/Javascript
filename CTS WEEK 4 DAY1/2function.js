@@ -93,3 +93,9 @@ const fetchData = async (url) => {
 
 // Usage
 fetchData("https://jsonplaceholder.typicode.com/posts");
+
+
+// Practice Code
+// Write an arrow function to calculate the factorial of a number.
+// Write an arrow function to filter an array of numbers greater than a given value.
+
